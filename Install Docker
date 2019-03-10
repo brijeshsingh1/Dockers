@@ -1,0 +1,3 @@
+curl https://get.docker.com > /tmp/install_docker.sh
+chmod +x /tmp/install_docker.sh
+sh -x /tmp/install_docker.sh ( Run with -x to see what all it's doing while installing docket engine on the system)
